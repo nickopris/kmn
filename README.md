@@ -1,4 +1,4 @@
-# [Solidity Template](#solidity-template)
+# [KMN](#kmn)
 
 <!-- If you want badge for Github Actions & NPM version, uncomment these! -->
 [![Unit Tests](https://github.com/nickopris/kmn/actions/workflows/unit-test.yaml/badge.svg)](https://github.com/nickopris/kmn/actions/workflows/unit-test.yaml)
